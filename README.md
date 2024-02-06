@@ -6,3 +6,4 @@ Minimum requirments to run the App : 12gb ram, 2gb GPU(nvidiaa) dedicated system
  ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
