@@ -5,6 +5,8 @@ Minimum requirements to run the app: 12GB RAM and a minimum of 2GB dedicated NVI
 
 Pre-trained model(LaMini-Flan-T5 LLM) link - [https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main]
 
+OpenAi-whisper model_id - "openai/whisper-large-v3"
+
 # App Highlights
  ![alt text][logo]
 
