@@ -31,6 +31,26 @@ Run the "text_sumamarizer.ipynb" via google colab to install dependecies on your
 
 ![Screenshot (412)](https://github.com/Ceejay16042/Everything-Summary-App/assets/65743504/4d0d3dba-9666-490a-b276-ae9cbc83036f)
 
+# App Overview
+
+### Text summarization feature
+![TS](https://github.com/Ceejay16042/Everything-Summary-App/assets/65743504/3ba6af44-1e55-46f5-83f1-925d60b27c24)
+
+
+
+### Document summarization feature
+![DS](https://github.com/Ceejay16042/Everything-Summary-App/assets/65743504/788847d9-70c4-40c7-8920-c124569f9cd5)
+
+
+
+### Audio summarization feature
+![AS](https://github.com/Ceejay16042/Everything-Summary-App/assets/65743504/60bf5bb6-7111-4c3b-b222-afdb6e354287)
+
+
+
+### Video summarization feature
+![VS](https://github.com/Ceejay16042/Everything-Summary-App/assets/65743504/a76a5577-e7b3-4e70-ae8d-c1d0d76619af)
+
 
 
 
