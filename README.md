@@ -19,8 +19,9 @@ The Everything-Summary App comprises the following features:
 * Audio and video transcription and summarization capabilities using OpenAI-Whisper for comprehensive content summaries.
 
 # Running the app
-Use the command `pip install -r requirements.txt` on your python terminal to install app dependencies locally to your device
-Run `streamlit run APP(GPU).py` to run the summary app
+Use the command `pip install -r requirements.txt` on your terminal to install app dependencies locally to your device
+
+ Use the command `streamlit run APP(GPU).py`on your terminal to run the summary app
 
 OR
 
