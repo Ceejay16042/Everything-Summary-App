@@ -17,3 +17,12 @@ The Everything-Summary App comprises the following features:
 * PDF file summarization using PyPDFLoader in Python for file parsing and LlaMini large language model for concise summaries.
 * Text-to-speech functionality for both textual and PDF summarization, using Google Text-to-Speech.
 * Audio and video transcription and summarization capabilities using OpenAI-Whisper for comprehensive content summaries.
+
+# Running the app
+Use the command `pip install -r requirements.txt` on your python terminal to install app dependencies locally to your device
+Run `streamlit run APP(GPU).py` to run the summary app
+
+OR
+
+
+
