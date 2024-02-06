@@ -14,7 +14,7 @@ OpenAi-whisper model_id - "openai/whisper-large-v3"
 
 The Everything-Summary App comprises the following features:
 
-* Text summarization feature using SQL2SQL modeling.
+* Text summarization feature using Seq-to-Seq modeling.
 * Summary length specification
 * PDF file summarization using PyPDFLoader in Python for file parsing and LlaMini large language model for concise summaries.
 * Text-to-speech functionality for both textual and PDF summarization, using Google Text-to-Speech.
