@@ -1,7 +1,7 @@
 # Everything-Summary-App
 A summary app that summarizes text and PDF files, as well as transcribes and summarizes multimedia files (audio and video) using the Lamini-Flan T5 LLM model from Hugging Face and OpenAI Whisper model.
 
-Minimum requirments to run the App : 12gb ram, minimum of 2gb GPU(nvidia) dedicated system above
+Minimum requirements to run the app: 12GB RAM and a minimum of 2GB dedicated NVIDIA GPU system or higher.
 
 Pre-trained model(LaMini-Flan-T5 LLM) link - [https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M/tree/main]
 
